@@ -4,6 +4,8 @@
 
 What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing)) to know more.
 
+![Honeypot_diagram](https://upload.wikimedia.org/wikipedia/commons/7/76/Honeypot_diagram.jpg)
+
 ### Requirements
 - Python 3.x
 - Unix-like operating system (tested on Ubuntu 20.04)
