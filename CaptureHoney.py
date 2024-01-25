@@ -124,7 +124,7 @@ def main(args):
         server_socket.close()
         sys.exit(0)
     except Exception as e:
-        print(f" An error occurred: {e}")
+        print(f" [!] An error occurred: {e}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="CaptureHoney.py with Command-Line Arguments")
