@@ -28,11 +28,34 @@ By default, the script captures connections on IP address 0.0.0.0 and port 80. Y
 
 ### Screenshots
 
-Coming Soon
-
 ![Screenshot 1](screenshots/screenshot_1.png)
 ![Screenshot 2](screenshots/screenshot_2.png)
 ![Screenshot 3](screenshots/screenshot_3.png)
+![Screenshot 3](screenshots/screenshot_4.png)
+
+```
+--
+
+// Website: https://ChrishSec.com
+// GitHub: https://github.com/ChrishSec
+// Twitter: https://twitter.com/ChrishSec
+
+--
+
+CaptureHoney Server >>> http://172.xxx.xx.xxx:8080
+
+Attacker IP & INFO >>> 172.xxx.xx.xxx   ↓↓↓ 
+
+Visited Path: /
+IP Address: 172.xxx.xx.xxx
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Country: France
+City: Paris
+Lat: 48.xxxx
+Lon: 2.xxxx
+Timezone: Europe/Paris
+ISP: Akamai Technologies, Inc.
+```
 
 ## Disclaimer
 
