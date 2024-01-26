@@ -1,6 +1,6 @@
 ## CaptureHoney
 
-`CaptureHoney` is a Python script designed to capture and log connections, sending a custom message while offering no service to unwanted visitors. It operates as a Honeypot.
+`CaptureHoney` is a Python script designed to capture and log connections, sending a custom message while offering no service to attackers. It operates as a Honeypot.
 
 What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing)) to know more.
 
