@@ -1,6 +1,6 @@
 ## CaptureHoney
 
-`CaptureHoney` is a Python script designed to capture and log connections, sending a custom message while offering no service to attackers. It operates as a Honeypot.
+`CaptureHoney` is a Tool designed to capture and log connections, sending a custom message while offering no service to attackers. It operates as a Honeypot.
 
 What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing)) to know more.
 
@@ -59,12 +59,12 @@ ISP: Akamai Technologies, Inc.
 
 ## Disclaimer
 
-This script is intended for educational and research purposes only. Use it at your own risk. The author is not responsible for any damage caused by the use or misuse of this script.
+This tool is intended for educational and research purposes only. Use it at your own risk. The author is not responsible for any damage caused by the use or misuse of this tool.
 
 ## License
 
-This script is released under the GNU General Public License v3.0. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+This tool is released under the GNU General Public License v3.0. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## Author
 
-This script was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
+This tool was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
