@@ -20,11 +20,11 @@ What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing
 
 ```pip3 install -r requirements.txt```
 
-3. Run the script:
+3. Run the CaptureHoney.py:
 
 ```python3 CaptureHoney.py -ip 0.0.0.0 -p 8080```
 
-By default, the script captures connections on IP address 0.0.0.0 and port 80. You can customize the IP and port by modifying the relevant arguments in the command.
+By default, CaptureHoney captures connections on IP address 0.0.0.0 and port 80. You can customize the IP and port by modifying the relevant arguments in the command.
 
 ### Screenshots
 
