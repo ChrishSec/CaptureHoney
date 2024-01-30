@@ -22,9 +22,9 @@ What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing
 
 3. Run the CaptureHoney.py:
 
-```python3 CaptureHoney.py -ip 0.0.0.0 -p 8080```
+```python3 CaptureHoney.py -ip 0.0.0.0 -p 8080 -timezone SG```
 
-By default, CaptureHoney captures connections on IP address 0.0.0.0 and port 80. You can customize the IP and port by modifying the relevant arguments in the command.
+By default, CaptureHoney captures connections on IP address 0.0.0.0 and port 80. You can customize the IP, port, and timezone by modifying the relevant arguments in the command.
 
 ### Screenshots
 
@@ -42,10 +42,13 @@ By default, CaptureHoney captures connections on IP address 0.0.0.0 and port 80.
 
 --
 
+v2.0.0
+
 CaptureHoney Server >>> http://172.xxx.xx.xxx:8080
 
 Attacker IP & INFO >>> 172.xxx.xx.xxx   ↓↓↓ 
 
+Connection Time: Jan 30, 2024 - 11:06:37 PM
 Visited Path: /
 IP Address: 172.xxx.xx.xxx
 Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
