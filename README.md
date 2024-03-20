@@ -4,7 +4,7 @@
 
 What is Honeypot? Click [here](https://en.wikipedia.org/wiki/Honeypot_(computing)) to know more.
 
-![Honeypot_diagram](https://upload.wikimedia.org/wikipedia/commons/7/76/Honeypot_diagram.jpg)
+![Honeypot_diagram](screenshots/Honeypot.png)
 
 ### Requirements
 - Python 3.x
