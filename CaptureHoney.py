@@ -152,6 +152,7 @@ def ip_info(real_ip):
         headers = {
             "Host": "iplookup.chrishsec.com",
             "User-Agent": "CaptureHoney/v2.0.0",
+            "Authorization": "Bearer 3ca64848-8bce-41a3-9dbb-3fecf583b85e",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
             "Accept-Language": "en-US,en;q=0.5",
             "Accept-Encoding": "gzip, deflate",
